@@ -1,0 +1,22 @@
+{
+	"name": "tnarik/rocketeer-database",
+	"description": "Database plugin for Rocketeer",
+  "license": "MIT",
+  "keywords": [
+    "rocketeer",
+    "deployment",
+    "database",
+    "laravel"
+  ],
+	"authors": [
+		{
+			"name": "Tnarik Innael",
+			"email": "tnarik@lecafeautomatique.co.uk"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+	},
+	"autoload": {
+	}
+}
