@@ -17,6 +17,9 @@
   "require": {
     "php": ">=5.3.0"
   },
+  "suggest": {
+    "anahkiasen/rocketeer": "This is a Rocketeer Plugin, so you better use it with Rocketeer."
+  },
   "autoload": {
     "psr-4": {
       "Tnarik\\RocketeerDatabase\\": "src/RocketeerDatabase/"
